@@ -1,0 +1,47 @@
+.sprite {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.sprite-ico-cart {
+    width: 15px;
+    height: 15px;
+    background-position: -5px -5px;
+}
+
+.sprite-ico-checkbox {
+    width: 23px;
+    height: 23px;
+    background-position: -5px -30px;
+}
+
+.sprite-ico-checkbox-active {
+    width: 27px;
+    height: 23px;
+    background-position: -5px -63px;
+}
+
+.sprite-ico-close {
+    width: 21px;
+    height: 21px;
+    background-position: -5px -96px;
+}
+
+.sprite-ico-fb {
+    width: 12px;
+    height: 22px;
+    background-position: -5px -127px;
+}
+
+.sprite-ico-insta {
+    width: 21px;
+    height: 21px;
+    background-position: -5px -159px;
+}
+
+.sprite-ico-vk {
+    width: 26px;
+    height: 15px;
+    background-position: -5px -190px;
+}
